@@ -1,0 +1,22 @@
+{
+  "name": "eth-tx-checker",
+  "version": "1.0.0",
+  "description": "Ethereum transaction checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackingbeauty/eth-tx-checker.git"
+  },
+  "author": "Mark Muskardin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackingbeauty/eth-tx-checker/issues"
+  },
+  "homepage": "https://github.com/hackingbeauty/eth-tx-checker#readme",
+  "dependencies": {
+    "web3": "1.2.11"
+  }
+}
